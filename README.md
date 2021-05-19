@@ -15,7 +15,7 @@ Last access to JASPAR: 2021/05/19
 2. Upload `JASPAR2020_CORE_vertebrates_non-redundant_pfms_transfac_uniprot_id.txt`
 3. Select options: From="UniProtKB AC/ID", To="Gene name"
 4. Submit
-5. Donwload table (`M20210519E5A08BB0B2D1C45B0C7BC3B55FD265561F1B55A.tab.txt`) into `out/`
+5. Donwload table (For example, `M20210519E5A08BB0B2D1C45B0C7BC3B55FD265561F1B55A.tab.txt`) and move it into `out/`
 
 ## Join tables
 
