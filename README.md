@@ -1,4 +1,6 @@
-README.md
+# How to generate table of JASPAR matrix ID and gene name
+
+Last access to JASPAR: 2021/05/19
 
 ## Download TRANSFAC format of JASPAR CORE Vertebrate & generate JASPAR-UniProtID table
 
@@ -21,4 +23,8 @@ README.md
 	- This requires R tidyverse package
 
 
+
+## Result is here!
+
+[out/etable_JASPAR2020_CORE_vertebrates_non-redundant_pfms_transfac_genename.tsv](out/table_JASPAR2020_CORE_vertebrates_non-redundant_pfms_transfac_genename.tsv)
 
